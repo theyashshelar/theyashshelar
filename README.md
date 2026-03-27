@@ -63,11 +63,11 @@ Java developer with an interest in building scalable applications and continuous
 ### GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theyashshelar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theyashshelar&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyashshelar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theyashshelar&theme=tokyonight" height="170" />
 </p>
 
 ---
