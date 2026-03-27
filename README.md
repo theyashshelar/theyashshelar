@@ -59,12 +59,11 @@ Java developer with an interest in building scalable applications and continuous
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
 ---
+### GitHub Overview
 
-### 📊 GitHub Insights
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=theyashshelar&show_icons=true&theme=tokyonight&hide_border=true" alt="Yash's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyashshelar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theyashshelar&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theyashshelar&theme=tokyonight" height="160" />
 </p>
 
 ---
