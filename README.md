@@ -70,4 +70,4 @@ Java developer with an interest in building scalable applications and continuous
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/yash-shelar-73182b385) | [Email](mailto:yashshelar006@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yash-shelar-73182b385) | [Email](mailto:yashshelar006@gmail.com)
