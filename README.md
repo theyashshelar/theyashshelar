@@ -61,11 +61,9 @@ Java developer with an interest in building scalable applications and continuous
 
 ---
 
-## GitHub Overview
-
-![Stats](https://github-readme-stats.vercel.app/api?username=theyashshelar\&show_icons=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theyashshelar\&layout=compact)
----
+### 📊 GitHub Activity
+![Yash's Stats](https://github-readme-stats.vercel.app/api?username=theyashshelar&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyashshelar&layout=compact&theme=tokyonight)
 
 ### 📫 Connect with Me
 [LinkedIn](www.linkedin.com/in/yash-shelar-73182b385) | [Email](mailto:yashshelar006@gmail.com)
