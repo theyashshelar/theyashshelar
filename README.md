@@ -1,5 +1,4 @@
 # Yash Shelar
-
 Java Developer
 
 ---
@@ -61,9 +60,14 @@ Java developer with an interest in building scalable applications and continuous
 
 ---
 
-### 📊 GitHub Activity
-![Yash's Stats](https://github-readme-stats.vercel.app/api?username=theyashshelar&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyashshelar&layout=compact&theme=tokyonight)
+### 📊 GitHub Insights
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=theyashshelar&show_icons=true&theme=tokyonight&hide_border=true" alt="Yash's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyashshelar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
 
 ### 📫 Connect with Me
 [LinkedIn](www.linkedin.com/in/yash-shelar-73182b385) | [Email](mailto:yashshelar006@gmail.com)
